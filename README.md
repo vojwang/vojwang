@@ -1,4 +1,11 @@
 # 👋 Hi, I'm Victor Ojwang
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00599C?style=for-the-badge)
 
 ### Data Science | Machine Learning | Financial Analytics | Financial Engineering Student
 
@@ -205,10 +212,10 @@ Long-term, I aim to contribute to innovative fintech solutions that improve fina
 I'm always interested in collaborating on projects related to Data Science, Machine Learning, Financial Analytics, and FinTech.
 ---
 
+---
+
 # 📊 GitHub Statistics
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vojwang&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vojwang&layout=compact&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vojwang)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vojwang&show_icons=true" />
+</p>
