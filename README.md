@@ -105,30 +105,27 @@ A financial econometrics project investigating the long-run relationship between
 
 ---
 
-## 🚧 German Credit Risk Prediction *(Next Project)*
+## German Credit Risk Prediction
 
-Develop a machine learning model to predict customer credit risk using the German Credit dataset.
+A machine learning project that predicts customer credit risk using the German Credit dataset. The project includes data preprocessing, exploratory data analysis, feature engineering, model comparison, evaluation, model deployment with Streamlit, and explainable machine learning techniques.
 
-**Planned Skills**
+### Key Skills
+
+- Python
+- Machine Learning
 - Classification
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
 - Feature Engineering
+- Scikit-learn
+- Random Forest
 - Model Evaluation
 - Explainable AI
-- Scikit-learn
+- Streamlit
 
----
+**Repository** 🔗 [View Repository](https://github.com/vojwang/german-credit-risk-prediction)
 
-## 🚧 Credit Card Fraud Detection *(Planned)*
-
-Build machine learning models to identify fraudulent credit card transactions and compare different classification algorithms.
-
-**Planned Skills**
-- Imbalanced Data
-- Random Forest
-- XGBoost
-- Precision-Recall Analysis
-- Fraud Analytics
-
+**Live Demo** 🌐 [Open App](https://vojwang-credit-risk-prediction.streamlit.app/)
 ---
 
 ## 🚧 Financial Analytics Dashboard *(Planned)*
