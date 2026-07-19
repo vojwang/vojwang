@@ -119,14 +119,17 @@ A machine learning project that predicts customer credit risk using the German C
 - Feature Engineering
 - Scikit-learn
 - Random Forest
+- Logistic Regression
+- Decision Tree
 - Model Evaluation
 - Explainable AI
+- Data Visualization
 - Streamlit
+- Git & GitHub
 
-**Repository** 🔗 [View Repository](https://github.com/vojwang/german-credit-risk-prediction)
+**Repository** 🔗 [View Repository](https://github.com/vojwang/credit-risk-prediction-ml)
 
 **Live Demo** 🌐 [Open App](https://vojwang-credit-risk-prediction.streamlit.app/)
----
 
 ## 🚧 Financial Analytics Dashboard *(Planned)*
 
