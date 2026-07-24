@@ -43,6 +43,7 @@ Graduated: **2015**
 
 - IBM Data Science Professional Certificate
 - WorldQuant University Applied Data Science Lab
+- Foundations of Financial Engineering
 
 ### 🔄 Currently Learning
 
